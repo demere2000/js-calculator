@@ -1,1 +1,1 @@
-# js-calculator
+My JavaScript calculator is well-structured, featuring a Calculator class and clear methods for handling arithmetic operations. I designed it with a clean, user-friendly interface, and I utilized Bootstrap-based styling for a visually appealing look.
